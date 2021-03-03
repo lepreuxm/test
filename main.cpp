@@ -11,5 +11,6 @@ int main()
 {
     cout << "Hello world!" << endl;
     printf("%s\n", sqlite3_libversion());
+	printf("Hello\n");
     return 0;
 }
